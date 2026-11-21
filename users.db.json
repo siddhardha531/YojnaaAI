@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-root",
+    "email": "admin@yojana.gov.in",
+    "name": "Portal Administrator",
+    "role": "admin",
+    "passwordHash": "e82e2c980286e625b2841d6e1bacbf69:ad3e338b56cee260257cbedd0e3c85c86fe552d1d13538b5093c932ab95937f2027122e6d5da0a4dd91577859560a8137907c92fab6f34f721ae62fd4ae13583",
+    "createdAt": "2026-10-01T00:00:00.000Z"
+  }
+]

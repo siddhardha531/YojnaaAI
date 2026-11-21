@@ -1,0 +1,32 @@
+[
+  {
+    "id": "notif-seed-1",
+    "type": "new_scheme",
+    "title": "New Education Grant Highlighted",
+    "message": "Pudhumai Penn Higher Education Grant (Tamil Nadu) is available in the Education category.",
+    "schemeId": "tn-pudhumai-penn",
+    "schemeName": "Pudhumai Penn Higher Education Grant (Demo)",
+    "category": "Education",
+    "createdAt": "2026-11-02T09:00:00.000Z"
+  },
+  {
+    "id": "notif-seed-2",
+    "type": "updated_scheme",
+    "title": "Scheme Guidelines Updated",
+    "message": "DAY-NRLM Lakhpati Didi Initiative eligibility thresholds and SHG training summary refreshed.",
+    "schemeId": "lakhpati-didi",
+    "schemeName": "DAY-NRLM Lakhpati Didi Initiative (Demo)",
+    "category": "Women Empowerment",
+    "createdAt": "2026-11-04T10:30:00.000Z"
+  },
+  {
+    "id": "notif-seed-3",
+    "type": "category_match",
+    "title": "Updated Scholarship Portal Rules",
+    "message": "National Post-Matric Scholarship now highlights One-Time Registration (OTR) ID requirements in Education.",
+    "schemeId": "nsp-post-matric",
+    "schemeName": "National Post-Matric Scholarship (Demo)",
+    "category": "Education",
+    "createdAt": "2026-11-02T08:15:00.000Z"
+  }
+]

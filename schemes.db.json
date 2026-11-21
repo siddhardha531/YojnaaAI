@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "pm-kisan",
+    "code": "IN-CEN-001",
+    "name": "PM-KISAN Samman Nidhi (Demo)",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "category": "Agriculture",
+    "level": "Central",
+    "shortDescription": "Direct income support of ₹6,000 per year transferred in three equal installments to eligible landholding farmer families.",
+    "overview": "A central sector demonstration summary illustrating direct income supplementation to small and marginal agricultural households to support input procurement and seasonal crop expenses.",
+    "benefits": [
+      "₹6,000 per year disbursed in three equal installments of ₹2,000 every four months.",
+      "Direct bank transfer via Aadhaar-linked Direct Benefit Transfer (DBT).",
+      "Helps cover seasonal seed, fertilizer, and domestic agricultural expenses."
+    ],
+    "eligibilityConditions": [
+      "Cultivable landholding farmer families as recorded in state/UT land registries.",
+      "Applicant must be an Indian citizen aged 18 years or above.",
+      "Mandatory Aadhaar e-KYC and Aadhaar-seeded bank account."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Land Ownership Record / 7/12 Extract",
+      "Bank Passbook",
+      "Mobile Number linked with Aadhaar"
+    ],
+    "applicationProcedure": [
+      "Verify land record entry and complete Aadhaar e-KYC.",
+      "Submit farmer registration details through pmkisan.gov.in or nearest Common Service Centre (CSC).",
+      "Track state-level verification and installment release status using registration ID."
+    ],
+    "restrictionsAndExceptions": [
+      "Institutional landholders are excluded.",
+      "Former and present holders of constitutional posts, serving/retired government officers, and income tax payers in the last assessment year are excluded.",
+      "Professionals such as doctors, engineers, lawyers, and chartered accountants registered with professional bodies are excluded."
+    ],
+    "officialWebsite": "https://pmkisan.gov.in",
+    "sourceDocument": {
+      "fileName": "pmkisan-operational-guidelines-demo.txt",
+      "uploadedAt": "2026-10-18",
+      "version": 1,
+      "sourceLabel": "Demonstration record from official pmkisan.gov.in summary"
+    },
+    "createdDate": "2026-09-01",
+    "lastUpdated": "2026-10-18",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-18",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded from official portal overview."
+      }
+    ],
+    "isPopular": true,
+    "criteria": {
+      "minAge": 18,
+      "occupations": [
+        "Farmer"
+      ],
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Farmers",
+        "Cultivable Landholding Agricultural Households"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Direct Income Support",
+        "Agricultural Input Assistance"
+      ],
+      "note": "Requires cultivable agricultural landholding status in official records."
+    }
+  },
+  {
+    "id": "pm-jay",
+    "code": "IN-CEN-002",
+    "name": "Ayushman Bharat PM-JAY (Demo)",
+    "department": "Ministry of Health & Family Welfare",
+    "category": "Healthcare",
+    "level": "Central",
+    "shortDescription": "Cashless secondary and tertiary hospitalization coverage up to ₹5 lakh per family per year across empanelled hospitals.",
+    "overview": "Demonstration summary of India’s flagship public health assurance program providing cashless treatment coverage for eligible economically vulnerable households.",
+    "benefits": [
+      "Health cover up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization.",
+      "Covers pre-hospitalization diagnostics (3 days) and post-hospitalization follow-up (15 days).",
+      "Paperless and cashless access at empanelled public and private hospitals nationwide."
+    ],
+    "eligibilityConditions": [
+      "Households listed under SECC deprivation categories or holding eligible state-linked ration/BPL cards.",
+      "No cap on family size or member age under scheme rules.",
+      "Senior citizens aged 70+ qualify under expanded senior citizen coverage."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Income Certificate",
+      "Domicile Certificate"
+    ],
+    "applicationProcedure": [
+      "Check family inclusion status via beneficiary.nha.gov.in.",
+      "Visit nearest empanelled hospital Ayushman Mitra desk or CSC for Aadhaar e-KYC.",
+      "Download Ayushman card upon verification for cashless admission."
+    ],
+    "restrictionsAndExceptions": [
+      "Covers inpatient hospitalization packages; routine OPD consultations without admission are generally excluded.",
+      "Cosmetic procedures and non-listed experimental treatments are excluded."
+    ],
+    "officialWebsite": "https://pmjay.gov.in",
+    "sourceDocument": {
+      "fileName": "nha-pmjay-summary-demo.txt",
+      "uploadedAt": "2026-10-24",
+      "version": 1,
+      "sourceLabel": "Demonstration record from pmjay.gov.in"
+    },
+    "createdDate": "2026-09-01",
+    "lastUpdated": "2026-10-24",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-24",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded from official portal overview."
+      }
+    ],
+    "isPopular": true,
+    "criteria": {
+      "maxAnnualIncome": 250000,
+      "requiresBpl": true,
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Vulnerable Households",
+        "BPL / SECC Families",
+        "Senior Citizens 70+"
+      ],
+      "eligibleSocialCategories": [
+        "BPL",
+        "SECC",
+        "EWS",
+        "SC",
+        "ST",
+        "OBC",
+        "All"
+      ],
+      "supportedBenefits": [
+        "Health Insurance",
+        "Cashless Hospitalization Coverage"
+      ],
+      "note": "Primarily targeted at socio-economically eligible households or senior citizens."
+    }
+  },
+  {
+    "id": "nsp-post-matric",
+    "code": "IN-CEN-003",
+    "name": "National Post-Matric Scholarship (Demo)",
+    "department": "Ministry of Education & Social Justice",
+    "category": "Education",
+    "level": "Central",
+    "shortDescription": "Tuition fee reimbursement and monthly academic maintenance allowance for students enrolled in post-matriculation studies.",
+    "overview": "Demonstration entry representing central scholarship assistance designed to reduce financial drop-out barriers for students pursuing Class 11, diploma, undergraduate, and postgraduate programs.",
+    "benefits": [
+      "Reimbursement of compulsory non-refundable institutional tuition fees.",
+      "Annual maintenance allowance for hostellers and day scholars.",
+      "Direct disbursement into the student’s Aadhaar-seeded bank account."
+    ],
+    "eligibilityConditions": [
+      "Student enrolled in a recognized post-matriculation or post-secondary institution.",
+      "Annual household income below ₹2,50,000 across all sources (varies by specific scholarship sub-scheme).",
+      "Minimum qualifying academic percentage and attendance compliance."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Academic Marksheet",
+      "Income Certificate",
+      "Caste / Category Certificate",
+      "Bank Passbook"
+    ],
+    "applicationProcedure": [
+      "Register on the National Scholarship Portal (scholarships.gov.in) and generate an OTR ID.",
+      "Complete academic profile and upload scanned supporting certificates.",
+      "Submit form for institute nodal verification and state/central sanction."
+    ],
+    "restrictionsAndExceptions": [
+      "Students cannot simultaneously avail two central post-matric scholarships for the same academic year.",
+      "Failure to maintain minimum attendance or passing promotion may halt renewal."
+    ],
+    "officialWebsite": "https://scholarships.gov.in",
+    "sourceDocument": {
+      "fileName": "nsp-guidelines-demo.txt",
+      "uploadedAt": "2026-11-02",
+      "version": 1,
+      "sourceLabel": "Demonstration record from scholarships.gov.in"
+    },
+    "createdDate": "2026-09-05",
+    "lastUpdated": "2026-11-02",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-11-02",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isPopular": true,
+    "isRecent": true,
+    "criteria": {
+      "minAge": 15,
+      "maxAge": 32,
+      "maxAnnualIncome": 250000,
+      "occupations": [
+        "Student"
+      ],
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Students",
+        "Post-Matric Scholars",
+        "Engineering & Degree Students",
+        "EWS / SC / ST / OBC / Minority Students"
+      ],
+      "eligibleSocialCategories": [
+        "EWS",
+        "SC",
+        "ST",
+        "OBC",
+        "Minority",
+        "All"
+      ],
+      "supportedBenefits": [
+        "Scholarship",
+        "Tuition Fee Reimbursement",
+        "Academic Maintenance Allowance"
+      ],
+      "note": "Requires active enrollment in a recognized post-matric course."
+    }
+  },
+  {
+    "id": "pmay-urban",
+    "code": "IN-CEN-004",
+    "name": "Pradhan Mantri Awas Yojana – Urban 2.0 (Demo)",
+    "department": "Ministry of Housing & Urban Affairs",
+    "category": "Housing",
+    "level": "Central",
+    "shortDescription": "Interest subsidy and direct financial assistance for EWS and LIG urban families building or purchasing their first pucca home.",
+    "overview": "Demonstration summary illustrating urban affordable housing support through Beneficiary-Led Construction and Interest Subsidy components.",
+    "benefits": [
+      "Interest subsidy or central construction grant up to ₹2.50 lakh for eligible urban households.",
+      "Promotes female co-ownership or sole ownership of assisted housing units.",
+      "Supports both new house construction and eligible home purchase."
+    ],
+    "eligibilityConditions": [
+      "Beneficiary family must not own a pucca house anywhere in India.",
+      "Annual household income up to ₹3,00,000 (EWS) or ₹6,00,000 (LIG).",
+      "Applicant must reside in a notified statutory town or urban local body area."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Domicile Certificate",
+      "Bank Passbook",
+      "PAN Card"
+    ],
+    "applicationProcedure": [
+      "Review income bracket and check municipal urban local body eligibility.",
+      "Submit online assessment via pmaymis.gov.in or municipal facilitation desk.",
+      "Complete geo-tagged site or loan verification with participating bank/ULB."
+    ],
+    "restrictionsAndExceptions": [
+      "Families who have already availed central/state housing assistance under prior housing missions are ineligible.",
+      "Property must be located within notified urban planning boundaries."
+    ],
+    "officialWebsite": "https://pmaymis.gov.in",
+    "sourceDocument": {
+      "fileName": "pmay-u-2-demo.txt",
+      "uploadedAt": "2026-10-29",
+      "version": 1,
+      "sourceLabel": "Demonstration record from pmaymis.gov.in"
+    },
+    "createdDate": "2026-09-10",
+    "lastUpdated": "2026-10-29",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-29",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isRecent": true,
+    "criteria": {
+      "minAge": 21,
+      "maxAnnualIncome": 600000,
+      "residence": [
+        "Urban"
+      ],
+      "genders": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Urban Families",
+        "First-Time Homebuyers",
+        "EWS / LIG Households"
+      ],
+      "eligibleSocialCategories": [
+        "EWS",
+        "LIG",
+        "All"
+      ],
+      "supportedBenefits": [
+        "Housing Subsidy",
+        "Home Construction Grant",
+        "Interest Subsidy"
+      ],
+      "note": "Applicant household must not already own a permanent (pucca) residence."
+    }
+  },
+  {
+    "id": "pm-mudra",
+    "code": "IN-CEN-005",
+    "name": "Pradhan Mantri MUDRA Yojana (Demo)",
+    "department": "Ministry of Finance",
+    "category": "Business & Entrepreneurship",
+    "level": "Central",
+    "shortDescription": "Collateral-free micro-enterprise loans across Shishu, Kishore, and Tarun tiers up to ₹20 lakh for non-farm small businesses.",
+    "overview": "Demonstration record outlining institutional credit access for micro-enterprises, artisans, shopkeepers, and small service providers through commercial banks and MFIs.",
+    "benefits": [
+      "Collateral-free term loans and working capital from ₹50,000 (Shishu) up to ₹20,00,000 (Tarun Plus).",
+      "No third-party collateral security required under Credit Guarantee framework.",
+      "Supports machinery purchase, inventory expansion, and small commercial operations."
+    ],
+    "eligibilityConditions": [
+      "Indian citizen aged 18+ with a viable non-farm income-generating business plan.",
+      "Clean credit history with no prior willful loan default.",
+      "Available to sole proprietors, partnership firms, and small service enterprises."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Passbook",
+      "Business Registration / Udyam Certificate"
+    ],
+    "applicationProcedure": [
+      "Prepare a concise business profile and projected cash flow summary.",
+      "Apply via JanSamarth portal or approach nearest scheduled commercial bank / RRB.",
+      "Complete KYC and credit appraisal for loan sanction."
+    ],
+    "restrictionsAndExceptions": [
+      "Strictly intended for non-farm manufacturing, trading, and service micro-enterprises (direct crop farming loans are outside MUDRA).",
+      "Tarun Plus tier (₹10–20 lakh) applies to entrepreneurs who successfully repaid earlier Tarun loans."
+    ],
+    "officialWebsite": "https://www.mudra.org.in",
+    "sourceDocument": {
+      "fileName": "mudra-scheme-demo.txt",
+      "uploadedAt": "2026-10-15",
+      "version": 1,
+      "sourceLabel": "Demonstration record from mudra.org.in"
+    },
+    "createdDate": "2026-09-12",
+    "lastUpdated": "2026-10-15",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-15",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isPopular": true,
+    "criteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "occupations": [
+        "Self-Employed / MSME",
+        "Unemployed"
+      ],
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Entrepreneurs",
+        "Small Business Owners",
+        "Artisans",
+        "Unemployed Youth Starting Business"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Collateral-Free Business Loan",
+        "Working Capital Credit"
+      ],
+      "note": "Requires a non-farm micro or small business activity."
+    }
+  },
+  {
+    "id": "lakhpati-didi",
+    "code": "IN-CEN-006",
+    "name": "DAY-NRLM Lakhpati Didi Initiative (Demo)",
+    "department": "Ministry of Rural Development",
+    "category": "Women Empowerment",
+    "level": "Central",
+    "shortDescription": "Livelihood training, revolving credit, and market linkage support for rural women Self-Help Group (SHG) members.",
+    "overview": "Demonstration entry showcasing rural women enterprise enablement aimed at helping SHG households reach sustainable annual incomes above ₹1 lakh.",
+    "benefits": [
+      "Interest-subvented SHG working capital and enterprise startup support.",
+      "Hands-on vocational, financial literacy, and digital bookkeeping training.",
+      "Market access support for rural crafts, dairy, poultry, and agro-processing."
+    ],
+    "eligibilityConditions": [
+      "Women residing in rural areas who are active members of a recognized Self-Help Group.",
+      "Age generally between 18 and 55 years.",
+      "Household annual income below ₹3,00,000 in sample guidelines."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Domicile Certificate",
+      "SHG Membership Record"
+    ],
+    "applicationProcedure": [
+      "Join or verify membership in a village-level Self-Help Group under SRLM.",
+      "Submit a household livelihood plan through the Block Mission Management Unit.",
+      "Access training and SHG credit disbursement upon cluster approval."
+    ],
+    "restrictionsAndExceptions": [
+      "Restricted to rural households organized within registered DAY-NRLM Self-Help Groups."
+    ],
+    "officialWebsite": "https://aajeevika.gov.in",
+    "sourceDocument": {
+      "fileName": "day-nrlm-lakhpati-didi-demo.txt",
+      "uploadedAt": "2026-11-04",
+      "version": 1,
+      "sourceLabel": "Demonstration record from aajeevika.gov.in"
+    },
+    "createdDate": "2026-09-14",
+    "lastUpdated": "2026-11-04",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-11-04",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isRecent": true,
+    "criteria": {
+      "minAge": 18,
+      "maxAge": 55,
+      "maxAnnualIncome": 300000,
+      "genders": [
+        "Female"
+      ],
+      "residence": [
+        "Rural"
+      ],
+      "targetBeneficiaries": [
+        "Rural Women",
+        "Self-Help Group (SHG) Members",
+        "Women Micro-Entrepreneurs"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Livelihood Training",
+        "SHG Credit Support",
+        "Enterprise Startup Assistance"
+      ],
+      "note": "Designed for rural women participating in Self-Help Groups."
+    }
+  },
+  {
+    "id": "atal-pension",
+    "code": "IN-CEN-007",
+    "name": "Atal Pension Yojana (Demo)",
+    "department": "Ministry of Finance (PFRDA)",
+    "category": "Pension",
+    "level": "Central",
+    "shortDescription": "Guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60 based on regular subscriber contributions.",
+    "overview": "Demonstration overview of a voluntary contributory pension scheme focused on workers in the unorganized sector to secure predictable post-retirement income.",
+    "benefits": [
+      "Guaranteed minimum monthly pension between ₹1,000 and ₹5,000 upon turning 60.",
+      "Spouse continues to receive the same pension after the subscriber’s lifetime.",
+      "Nominee receives accumulated corpus after both subscriber and spouse."
+    ],
+    "eligibilityConditions": [
+      "Indian citizen aged between 18 and 40 years.",
+      "Active savings bank account or post office savings account.",
+      "Subscriber must not be an income tax payer at enrollment."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Mobile Number linked with Bank Account"
+    ],
+    "applicationProcedure": [
+      "Visit your bank branch or enable enrollment through net-banking APY portal.",
+      "Select desired pension slab (₹1,000 to ₹5,000) and auto-debit frequency.",
+      "Receive Permanent Retirement Account Number (PRAN) confirmation."
+    ],
+    "restrictionsAndExceptions": [
+      "Income tax payers are ineligible to join APY.",
+      "Premature exit before age 60 is permitted only under exceptional circumstances."
+    ],
+    "officialWebsite": "https://www.npscra.nsdl.co.in",
+    "sourceDocument": {
+      "fileName": "apy-pfrda-demo.txt",
+      "uploadedAt": "2026-09-28",
+      "version": 1,
+      "sourceLabel": "Demonstration record from PFRDA"
+    },
+    "createdDate": "2026-09-15",
+    "lastUpdated": "2026-09-28",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-09-28",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "minAge": 18,
+      "maxAge": 40,
+      "occupations": [
+        "Unorganized Worker",
+        "Self-Employed / MSME",
+        "Farmer",
+        "Salaried"
+      ],
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Unorganized Sector Workers",
+        "Informal Workers",
+        "Non-Income-Tax Payers"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Guaranteed Monthly Pension",
+        "Spouse Pension Security"
+      ],
+      "note": "Entry age window is strictly 18–40 years; excludes income tax payers."
+    }
+  },
+  {
+    "id": "ignoaps-senior",
+    "code": "IN-CEN-008",
+    "name": "Indira Gandhi National Old Age Pension (Demo)",
+    "department": "Ministry of Rural Development",
+    "category": "Senior Citizens",
+    "level": "Central",
+    "shortDescription": "Monthly non-contributory pension support for senior citizens aged 60 and above from BPL households.",
+    "overview": "Demonstration summary of social assistance under NSAP providing basic monthly financial security to elderly citizens in economically vulnerable households.",
+    "benefits": [
+      "Central monthly pension component enhanced with state top-up grants (varies by state).",
+      "Higher pension slab automatically applicable for citizens aged 80 years and above.",
+      "Direct credit into senior citizen bank or post office account."
+    ],
+    "eligibilityConditions": [
+      "Citizen aged 60 years or older.",
+      "Household listed under Below Poverty Line (BPL) criteria prescribed by the state.",
+      "Not receiving overlapping statutory old-age pension benefits."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Senior Citizen Age Proof",
+      "Ration Card",
+      "Bank Passbook",
+      "Income Certificate"
+    ],
+    "applicationProcedure": [
+      "Obtain age verification and BPL status verification from local Gram Panchayat or Urban Local Body.",
+      "Submit NSAP application through state social welfare office or UMANG portal.",
+      "Receive monthly DBT credit upon district sanction."
+    ],
+    "restrictionsAndExceptions": [
+      "Restricted strictly to BPL households as defined by state/central criteria."
+    ],
+    "officialWebsite": "https://nsap.nic.in",
+    "sourceDocument": {
+      "fileName": "nsap-ignoaps-demo.txt",
+      "uploadedAt": "2026-10-05",
+      "version": 1,
+      "sourceLabel": "Demonstration record from nsap.nic.in"
+    },
+    "createdDate": "2026-09-16",
+    "lastUpdated": "2026-10-05",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-05",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "minAge": 60,
+      "requiresBpl": true,
+      "maxAnnualIncome": 150000,
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Senior Citizens (60+)",
+        "Elderly in BPL Households"
+      ],
+      "eligibleSocialCategories": [
+        "BPL",
+        "All"
+      ],
+      "supportedBenefits": [
+        "Monthly Old-Age Pension",
+        "Social Security Assistance"
+      ],
+      "note": "Requires age 60+ and BPL eligibility verification."
+    }
+  },
+  {
+    "id": "pmkvy-skills",
+    "code": "IN-CEN-009",
+    "name": "PM Kaushal Vikas Yojana 4.0 (Demo)",
+    "department": "Ministry of Skill Development & Entrepreneurship",
+    "category": "Employment",
+    "level": "Central",
+    "shortDescription": "Free industry-aligned vocational training, certification, and placement assistance for youth across technical and service trades.",
+    "overview": "Demonstration record describing short-term skill certification and Recognition of Prior Learning (RPL) programs aimed at improving youth employability.",
+    "benefits": [
+      "100% tuition-free short-term skill training at accredited Skill India centers.",
+      "Nationally recognized NSQF certification upon assessment.",
+      "Placement support, apprenticeship linkage, and career counseling."
+    ],
+    "eligibilityConditions": [
+      "Indian youth generally aged 15 to 45 years.",
+      "School/college dropouts or unemployed youth seeking industry-ready certification.",
+      "Valid Aadhaar and bank account for tracking assessment support."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Academic Marksheet",
+      "Bank Passbook"
+    ],
+    "applicationProcedure": [
+      "Browse accredited Skill India Digital Hub courses and select a trade.",
+      "Enroll at a nearby Pradhan Mantri Kaushal Kendra (PMKK) with Aadhaar verification.",
+      "Complete training hours and pass practical assessment for certification."
+    ],
+    "restrictionsAndExceptions": [
+      "Candidates must fulfill minimum attendance requirements to qualify for final assessment certification."
+    ],
+    "officialWebsite": "https://www.skillindiadigital.gov.in",
+    "sourceDocument": {
+      "fileName": "pmkvy4-demo.txt",
+      "uploadedAt": "2026-10-12",
+      "version": 1,
+      "sourceLabel": "Demonstration record from skillindiadigital.gov.in"
+    },
+    "createdDate": "2026-09-18",
+    "lastUpdated": "2026-10-12",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-12",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "minAge": 15,
+      "maxAge": 45,
+      "occupations": [
+        "Student",
+        "Unemployed",
+        "Unorganized Worker"
+      ],
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Unemployed Youth",
+        "Graduates Seeking Skills",
+        "Students",
+        "School/College Dropouts"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Free Vocational Skill Training",
+        "NSQF Certification",
+        "Placement & Apprenticeship Support"
+      ],
+      "note": "Open to youth and workers seeking NSQF-aligned vocational skills."
+    }
+  },
+  {
+    "id": "mgnrega-rural",
+    "code": "IN-CEN-010",
+    "name": "MGNREGA Rural Wage Guarantee (Demo)",
+    "department": "Ministry of Rural Development",
+    "category": "Rural Development",
+    "level": "Central",
+    "shortDescription": "Guarantees up to 100 days of unskilled manual wage employment per financial year to rural households.",
+    "overview": "Demonstration summary of statutory rural livelihood security focusing on durable community assets, water conservation, and rural connectivity.",
+    "benefits": [
+      "Up to 100 days of guaranteed wage employment per rural household annually.",
+      "Wages transferred directly to worker bank accounts within 15 days of muster roll closure.",
+      "Unemployment allowance provisions if work is not allotted within statutory window."
+    ],
+    "eligibilityConditions": [
+      "Adult members of any rural household willing to undertake unskilled manual work.",
+      "Applicant must be 18 years or older and reside in the respective Gram Panchayat."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Bank Passbook",
+      "Ration Card"
+    ],
+    "applicationProcedure": [
+      "Apply for a Job Card at the local Gram Panchayat office.",
+      "Submit written or digital demand for work once Job Card is issued.",
+      "Report to allotted worksite and receive direct wage credit."
+    ],
+    "restrictionsAndExceptions": [
+      "Applicable strictly to rural Gram Panchayat jurisdictions; urban municipal areas are excluded."
+    ],
+    "officialWebsite": "https://nrega.nic.in",
+    "sourceDocument": {
+      "fileName": "mgnrega-demo.txt",
+      "uploadedAt": "2026-09-20",
+      "version": 1,
+      "sourceLabel": "Demonstration record from nrega.nic.in"
+    },
+    "createdDate": "2026-09-19",
+    "lastUpdated": "2026-09-20",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-09-20",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "minAge": 18,
+      "residence": [
+        "Rural"
+      ],
+      "occupations": [
+        "Farmer",
+        "Unorganized Worker",
+        "Unemployed"
+      ],
+      "genders": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Rural Households",
+        "Rural Wage Seekers",
+        "Agricultural Labourers"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Guaranteed Wage Employment",
+        "Rural Livelihood Security"
+      ],
+      "note": "Exclusively applicable to rural Gram Panchayat residents."
+    }
+  },
+  {
+    "id": "pm-svanidhi",
+    "code": "IN-CEN-011",
+    "name": "PM SVANidhi Street Vendor Credit (Demo)",
+    "department": "Ministry of Housing & Urban Affairs",
+    "category": "Financial Assistance",
+    "level": "Central",
+    "shortDescription": "Affordable working capital micro-loans starting at ₹10,000 with interest subsidy and digital cashback incentives for urban street vendors.",
+    "overview": "Demonstration summary of micro-credit restoration and digital payment onboarding for urban street vendors, hawkers, and small stall operators.",
+    "benefits": [
+      "Progressive collateral-free working capital loans of ₹10,000, ₹20,000, and ₹50,000.",
+      "7% annual interest subsidy on timely repayment.",
+      "Monthly digital transaction cashback incentives."
+    ],
+    "eligibilityConditions": [
+      "Urban street vendors holding Certificate of Vending or Letter of Recommendation from Urban Local Body.",
+      "Age 18 years or older engaged in urban vending activities."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "ULB Vending Certificate / LOR"
+    ],
+    "applicationProcedure": [
+      "Verify vendor survey listing or request Letter of Recommendation from Urban Local Body.",
+      "Submit loan application via pmsvanidhi.mohua.gov.in or nearest Common Service Centre.",
+      "Complete lender KYC to receive working capital disbursement."
+    ],
+    "restrictionsAndExceptions": [
+      "Second and third loan tranches require timely full repayment of the previous tranche."
+    ],
+    "officialWebsite": "https://pmsvanidhi.mohua.gov.in",
+    "sourceDocument": {
+      "fileName": "pm-svanidhi-demo.txt",
+      "uploadedAt": "2026-10-10",
+      "version": 1,
+      "sourceLabel": "Demonstration record from pmsvanidhi.mohua.gov.in"
+    },
+    "createdDate": "2026-09-20",
+    "lastUpdated": "2026-10-10",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-10",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "minAge": 18,
+      "residence": [
+        "Urban"
+      ],
+      "occupations": [
+        "Self-Employed / MSME",
+        "Unorganized Worker"
+      ],
+      "genders": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Urban Street Vendors",
+        "Hawkers",
+        "Small Urban Stall Operators"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "General",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Working Capital Micro-Loan",
+        "Interest Subsidy",
+        "Digital Cashback"
+      ],
+      "note": "Requires urban street vendor verification."
+    }
+  },
+  {
+    "id": "udid-social-welfare",
+    "code": "IN-CEN-012",
+    "name": "ADIP & Divyangjan Assistance Scheme (Demo)",
+    "department": "Department of Empowerment of Persons with Disabilities",
+    "category": "Social Welfare",
+    "level": "Central",
+    "shortDescription": "Financial assistance for modern assistive devices, mobility aids, and rehabilitation support for persons with benchmark disabilities.",
+    "overview": "Demonstration record outlining targeted social welfare assistance to improve independent living and educational/vocational access for citizens with disabilities.",
+    "benefits": [
+      "Subsidized or free modern assistive aids and prosthetic devices.",
+      "Supports motorized tricycles, hearing aids, and smart educational tools based on income slab.",
+      "Linked with Unique Disability ID (UDID) for streamlined state and central benefits."
+    ],
+    "eligibilityConditions": [
+      "Indian citizen with 40% or more certified benchmark disability.",
+      "Monthly household income generally up to ₹22,500 for 100% grant (50% grant up to ₹30,000/month)."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "UDID / Disability Certificate",
+      "Income Certificate",
+      "Domicile Certificate"
+    ],
+    "applicationProcedure": [
+      "Apply for a Unique Disability ID (UDID) on the Swavlamban portal.",
+      "Attend district medical assessment camp or ALIMCO distribution center.",
+      "Receive approved assistive equipment upon verification."
+    ],
+    "restrictionsAndExceptions": [
+      "Repeat issuance of identical assistive devices is subject to standard replacement period rules (typically 3 years)."
+    ],
+    "officialWebsite": "https://www.swavlambancard.gov.in",
+    "sourceDocument": {
+      "fileName": "adip-udid-demo.txt",
+      "uploadedAt": "2026-10-08",
+      "version": 1,
+      "sourceLabel": "Demonstration record from swavlambancard.gov.in"
+    },
+    "createdDate": "2026-09-21",
+    "lastUpdated": "2026-10-08",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-08",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "criteria": {
+      "maxAnnualIncome": 360000,
+      "genders": [
+        "All"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Persons with Benchmark Disability (40%+)",
+        "Divyangjan Students & Citizens"
+      ],
+      "eligibleSocialCategories": [
+        "Disability",
+        "Divyangjan",
+        "All"
+      ],
+      "supportedBenefits": [
+        "Assistive Devices",
+        "Mobility & Prosthetic Aids",
+        "Educational Assistive Tools"
+      ],
+      "note": "Requires certified benchmark disability (40% or above)."
+    }
+  },
+  {
+    "id": "mh-ladki-bahin",
+    "code": "IN-MH-013",
+    "name": "Mukhyamantri Majhi Ladki Bahin Yojana (Demo)",
+    "department": "Women & Child Development Dept., Maharashtra",
+    "category": "Women Empowerment",
+    "level": "State",
+    "stateName": "Maharashtra",
+    "shortDescription": "Monthly direct financial support of ₹1,500 to eligible women aged 21–65 in Maharashtra for household economic independence.",
+    "overview": "State-level demonstration example showing direct financial assistance aimed at nutrition, health, and financial autonomy of women from low- and middle-income households in Maharashtra.",
+    "benefits": [
+      "₹1,500 per month transferred directly via Aadhaar-linked DBT.",
+      "Priority coverage for married, widowed, divorced, and destitute women in eligible families."
+    ],
+    "eligibilityConditions": [
+      "Female permanent resident of Maharashtra aged 21 to 65 years.",
+      "Annual family income should not exceed ₹2,50,000.",
+      "No family member should be an income tax payer or regular government employee."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Income Certificate",
+      "Bank Passbook",
+      "Ration Card"
+    ],
+    "applicationProcedure": [
+      "Verify Aadhaar-bank seeding and collect Maharashtra domicile or 15-year residence proof.",
+      "Submit application via state portal or Anganwadi Sevika desk.",
+      "Track district approval and monthly DBT status online."
+    ],
+    "restrictionsAndExceptions": [
+      "Families owning a four-wheeler (excluding tractors) or paying income tax are excluded.",
+      "Beneficiaries already receiving ₹1,500+ under other state financial schemes are excluded."
+    ],
+    "officialWebsite": "https://ladakibahin.maharashtra.gov.in",
+    "sourceDocument": {
+      "fileName": "mh-ladki-bahin-demo.txt",
+      "uploadedAt": "2026-11-01",
+      "version": 1,
+      "sourceLabel": "Demonstration record from Maharashtra WCD"
+    },
+    "createdDate": "2026-09-25",
+    "lastUpdated": "2026-11-01",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-11-01",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isRecent": true,
+    "criteria": {
+      "minAge": 21,
+      "maxAge": 65,
+      "maxAnnualIncome": 250000,
+      "genders": [
+        "Female"
+      ],
+      "states": [
+        "Maharashtra"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Women Residents of Maharashtra",
+        "Low-Income Women (Age 21–65)"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Monthly Direct Financial Assistance"
+      ],
+      "note": "Applicable to eligible women domiciled in Maharashtra."
+    }
+  },
+  {
+    "id": "tn-pudhumai-penn",
+    "code": "IN-TN-014",
+    "name": "Pudhumai Penn Higher Education Grant (Demo)",
+    "department": "Dept. of Social Welfare, Tamil Nadu",
+    "category": "Education",
+    "level": "State",
+    "stateName": "Tamil Nadu",
+    "shortDescription": "Monthly ₹1,000 educational assistance for girl students from government schools pursuing undergraduate, diploma, or ITI courses.",
+    "overview": "State-level demonstration entry illustrating targeted higher-education retention incentives for young women in Tamil Nadu.",
+    "benefits": [
+      "₹1,000 monthly scholarship directly to the student’s bank account until course completion.",
+      "Can be combined with standard merit scholarships in sample state policy."
+    ],
+    "eligibilityConditions": [
+      "Girl students who studied Classes 6 to 12 in Tamil Nadu government schools.",
+      "Currently enrolled in an accredited diploma, ITI, or undergraduate degree program."
+    ],
+    "requiredDocuments": [
+      "Aadhaar Card",
+      "Academic Marksheet",
+      "Bank Passbook",
+      "Domicile Certificate"
+    ],
+    "applicationProcedure": [
+      "Verify Class 6–12 government school EMIS records through current college nodal officer.",
+      "Submit student bank details on the Tamil Nadu higher education portal.",
+      "Receive monthly allowance upon institutional verification."
+    ],
+    "restrictionsAndExceptions": [
+      "Applies exclusively to female students who completed Classes 6–12 in Tamil Nadu government schools."
+    ],
+    "officialWebsite": "https://www.tn.gov.in",
+    "sourceDocument": {
+      "fileName": "tn-pudhumai-penn-demo.txt",
+      "uploadedAt": "2026-10-27",
+      "version": 1,
+      "sourceLabel": "Demonstration record from Tamil Nadu Social Welfare Dept."
+    },
+    "createdDate": "2026-09-28",
+    "lastUpdated": "2026-10-27",
+    "verificationStatus": "Demonstration",
+    "version": 1,
+    "versionHistory": [
+      {
+        "version": 1,
+        "updatedAt": "2026-10-27",
+        "updatedBy": "System Seed",
+        "changeSummary": "Initial demonstration record seeded."
+      }
+    ],
+    "isRecent": true,
+    "criteria": {
+      "minAge": 17,
+      "maxAge": 26,
+      "occupations": [
+        "Student"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "states": [
+        "Tamil Nadu"
+      ],
+      "residence": [
+        "All"
+      ],
+      "targetBeneficiaries": [
+        "Girl Students in Tamil Nadu",
+        "Government-School Alumni Pursuing Higher Education"
+      ],
+      "eligibleSocialCategories": [
+        "All",
+        "EWS",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "supportedBenefits": [
+        "Monthly Higher Education Scholarship",
+        "Tuition / Study Stipend"
+      ],
+      "note": "Applies to female students in Tamil Nadu who attended Classes 6–12 in government schools."
+    }
+  }
+]

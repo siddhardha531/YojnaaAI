@@ -1,0 +1,82 @@
+[
+  {
+    "id": "doc-aadhaar",
+    "name": "Aadhaar Card",
+    "issuingAuthority": "UIDAI",
+    "status": "Available",
+    "referenceNote": "Linked with mobile number & primary savings account",
+    "updatedAt": "2026-10-12"
+  },
+  {
+    "id": "doc-bank",
+    "name": "Bank Passbook",
+    "issuingAuthority": "Scheduled Commercial Bank",
+    "status": "Available",
+    "referenceNote": "DBT / NPCI mapper seeded",
+    "updatedAt": "2026-10-14"
+  },
+  {
+    "id": "doc-pan",
+    "name": "PAN Card",
+    "issuingAuthority": "Income Tax Department",
+    "status": "Available",
+    "referenceNote": "Verified copy stored locally",
+    "updatedAt": "2026-09-21"
+  },
+  {
+    "id": "doc-income",
+    "name": "Income Certificate",
+    "issuingAuthority": "State Revenue / Tehsildar Office",
+    "status": "In Progress",
+    "referenceNote": "Renewal requested for FY 2026–27",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "doc-domicile",
+    "name": "Domicile Certificate",
+    "issuingAuthority": "District Collector / e-District",
+    "status": "Available",
+    "referenceNote": "State residence proof ready",
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "id": "doc-ration",
+    "name": "Ration Card",
+    "issuingAuthority": "Dept. of Food & Civil Supplies",
+    "status": "Available",
+    "referenceNote": "Family unit listed",
+    "updatedAt": "2026-09-03"
+  },
+  {
+    "id": "doc-caste",
+    "name": "Caste / Category Certificate",
+    "issuingAuthority": "Sub-Divisional Magistrate",
+    "status": "Missing",
+    "referenceNote": "Needed only if applying under reserved category quotas",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "doc-land",
+    "name": "Land Ownership Record / 7/12 Extract",
+    "issuingAuthority": "State Land Records Portal",
+    "status": "Missing",
+    "referenceNote": "Required for agricultural income support schemes",
+    "updatedAt": "2026-10-05"
+  },
+  {
+    "id": "doc-marksheet",
+    "name": "Academic Marksheet",
+    "issuingAuthority": "Recognized Board / University",
+    "status": "Available",
+    "referenceNote": "Latest qualifying exam transcript",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "doc-age",
+    "name": "Senior Citizen Age Proof",
+    "issuingAuthority": "Municipal / Birth / School Record",
+    "status": "Missing",
+    "referenceNote": "Required for 60+ pension schemes",
+    "updatedAt": "2026-09-15"
+  }
+]

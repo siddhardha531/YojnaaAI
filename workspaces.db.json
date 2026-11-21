@@ -1,0 +1,170 @@
+{
+  "guest": {
+    "documents": [
+      {
+        "id": "doc-aadhaar",
+        "name": "Aadhaar Card",
+        "issuingAuthority": "UIDAI",
+        "status": "Available",
+        "referenceNote": "Linked with mobile number & primary savings account",
+        "updatedAt": "2026-10-12"
+      },
+      {
+        "id": "doc-bank",
+        "name": "Bank Passbook",
+        "issuingAuthority": "Scheduled Commercial Bank",
+        "status": "Available",
+        "referenceNote": "DBT / NPCI mapper seeded",
+        "updatedAt": "2026-10-14"
+      },
+      {
+        "id": "doc-pan",
+        "name": "PAN Card",
+        "issuingAuthority": "Income Tax Department",
+        "status": "Available",
+        "referenceNote": "Verified copy stored locally",
+        "updatedAt": "2026-09-21"
+      },
+      {
+        "id": "doc-income",
+        "name": "Income Certificate",
+        "issuingAuthority": "State Revenue / Tehsildar Office",
+        "status": "In Progress",
+        "referenceNote": "Renewal requested for FY 2026–27",
+        "updatedAt": "2026-11-01"
+      },
+      {
+        "id": "doc-domicile",
+        "name": "Domicile Certificate",
+        "issuingAuthority": "District Collector / e-District",
+        "status": "Available",
+        "referenceNote": "State residence proof ready",
+        "updatedAt": "2026-08-19"
+      },
+      {
+        "id": "doc-ration",
+        "name": "Ration Card",
+        "issuingAuthority": "Dept. of Food & Civil Supplies",
+        "status": "Available",
+        "referenceNote": "Family unit listed",
+        "updatedAt": "2026-09-03"
+      },
+      {
+        "id": "doc-caste",
+        "name": "Caste / Category Certificate",
+        "issuingAuthority": "Sub-Divisional Magistrate",
+        "status": "Missing",
+        "referenceNote": "Needed only if applying under reserved category quotas",
+        "updatedAt": "2026-10-01"
+      },
+      {
+        "id": "doc-land",
+        "name": "Land Ownership Record / 7/12 Extract",
+        "issuingAuthority": "State Land Records Portal",
+        "status": "Missing",
+        "referenceNote": "Required for agricultural income support schemes",
+        "updatedAt": "2026-10-05"
+      },
+      {
+        "id": "doc-marksheet",
+        "name": "Academic Marksheet",
+        "issuingAuthority": "Recognized Board / University",
+        "status": "Available",
+        "referenceNote": "Latest qualifying exam transcript",
+        "updatedAt": "2026-10-20"
+      },
+      {
+        "id": "doc-age",
+        "name": "Senior Citizen Age Proof",
+        "issuingAuthority": "Municipal / Birth / School Record",
+        "status": "Missing",
+        "referenceNote": "Required for 60+ pension schemes",
+        "updatedAt": "2026-09-15"
+      }
+    ],
+    "savedIds": [
+      "pm-kisan",
+      "nsp-post-matric"
+    ],
+    "recentlyViewedIds": [],
+    "eligibilityHistory": [],
+    "chatHistory": [
+      {
+        "id": "welcome-1",
+        "role": "assistant",
+        "content": "Welcome to **YojanaAI Assistant**. Ask me about Indian government scheme categories, required documents, student scholarships, scheme comparisons, or follow-up questions about your Eligibility Checker results.",
+        "timestamp": "Ready"
+      },
+      {
+        "id": "user-1795242334974",
+        "role": "user",
+        "content": "what are rural schemes",
+        "timestamp": "11:55 am"
+      },
+      {
+        "id": "assistant-1795242342119",
+        "role": "assistant",
+        "content": "As a resident of a rural area, you are primarily eligible for schemes focused on rural employment and infrastructure development. Based on your profile and the current database, below is the primary scheme available for your consideration:\n\n### MGNREGA Rural Wage Guarantee (Demo)\n\n**Why It Is Relevant & Matching Characteristics**\nThis scheme is specifically designed for rural households seeking livelihood security through guaranteed manual wage employment. It matches your rural residency status.\n\n**Eligibility Status**\n*   **Status:** More Information Required\n*   **Missing Details:** To confirm your specific eligibility, I need to know your **Age** and **Occupation/Beneficiary Type** (e.g., Agricultural Labourer, unskilled worker).\n\n**What the Scheme Provides**\n*   **Guaranteed Wage Employment:** Up to 100 days of guaranteed wage employment per rural household annually.\n*   **Direct Benefit Transfer:** Wages are transferred directly to your bank account within 15 days of muster roll closure.\n*   **Unemployment Allowance:** If work is not provided within the statutory time frame after a valid request, you may be entitled to an unemployment allowance.\n\n**Mandatory Eligibility Requirements & Restrictions**\n*   **Requirement:** Must be an adult member (18+) of a rural household willing to perform unskilled manual work.\n*   **Residency:** You must reside within the jurisdiction of your local Gram Panchayat.\n*   **Restriction:** This scheme is strictly for rural areas; urban municipal residents are ineligible.\n\n**Required Documents**\n*   Aadhaar Card (Available)\n*   Domicile Certificate (Available)\n*   Bank Passbook (Available)\n*   Ration Card (Available)\n\n**Application Procedure**\n1.  **Register:** Apply for a Job Card at your local Gram Panchayat office.\n2.  **Request Work:** Once your Job Card is issued, submit a written or digital demand for work.\n3.  **Perform Work:** Report to your allotted worksite as directed.\n\n**Official Source & Verification Status**\n*   **Official Website:** [https://nrega.nic.in](https://nrega.nic.in)\n*   **Verification Status:** Demonstration\n*   **Source Document:** mgnrega-demo.txt\n\n***\n\n**Note:** To provide you with more precise information, please clarify your State/UT of residence and your annual household income, as these factors often determine eligibility for other state-specific rural development schemes.",
+        "timestamp": "11:55 am",
+        "relatedSchemeIds": [
+          "mgnrega-rural"
+        ],
+        "sources": [
+          {
+            "schemeId": "mgnrega-rural",
+            "schemeName": "MGNREGA Rural Wage Guarantee (Demo)",
+            "officialWebsite": "https://nrega.nic.in",
+            "sourceDocument": "mgnrega-demo.txt",
+            "verificationStatus": "Demonstration"
+          }
+        ],
+        "followUpQuestions": [
+          "How do I apply for a Job Card?",
+          "Are there any rural housing schemes for me?",
+          "What other documents do I need for government schemes?"
+        ],
+        "retrievalMeta": {
+          "retrievedSchemes": 1,
+          "retrievedChunks": 2,
+          "method": "lexical-fallback"
+        }
+      },
+      {
+        "id": "user-1795242359463",
+        "role": "user",
+        "content": "can u provide additional education schemes",
+        "timestamp": "11:55 am"
+      },
+      {
+        "id": "assistant-1795242368998",
+        "role": "assistant",
+        "content": "To provide you with accurate education schemes, I have checked our current database records. \n\nBased on the **retrieved records available to me at this moment**, there are currently no specific education-related schemes for rural residents indexed in the database provided for this session. The current database is limited, focusing primarily on rural employment (such as MGNREGA).\n\nAs your **Citizen Documents Status** indicates that you have an **Academic Marksheet** available, you likely qualify for various central and state-level scholarship programs (such as the Pre-Matric or Post-Matric Scholarships for students). However, to provide you with verified and relevant details, I require the following additional information:\n\n1.  **Current Education Level:** (e.g., Class 10, Class 12, Undergraduate, Postgraduate)\n2.  **Annual Household Income:** (Many scholarships are income-bound)\n3.  **State/UT of Residence:** (Education schemes vary significantly between State and Central governments)\n4.  **Social Category:** (Caste/Category certificate is currently marked as \"Missing\"; many scholarship schemes have specific criteria for SC/ST/OBC/EWS candidates).\n\n**Please provide these details so I can search for the correct schemes in my next update.**\n\n***\n\n### Current Status of your Eligibility\n*   **Verified Schemes Found:** 0\n*   **Action Required:** Please update your profile with your education level and state to enable a targeted search for scholarships.",
+        "timestamp": "11:56 am",
+        "relatedSchemeIds": [
+          "mgnrega-rural"
+        ],
+        "sources": [
+          {
+            "schemeId": "mgnrega-rural",
+            "schemeName": "MGNREGA Rural Wage Guarantee (Demo)",
+            "officialWebsite": "https://nrega.nic.in",
+            "sourceDocument": "mgnrega-demo.txt",
+            "verificationStatus": "Demonstration"
+          }
+        ],
+        "followUpQuestions": [
+          "What is my current education level?",
+          "Which state are you residing in?",
+          "What is your annual household income?"
+        ],
+        "retrievalMeta": {
+          "retrievedSchemes": 1,
+          "retrievedChunks": 2,
+          "method": "lexical-fallback"
+        }
+      }
+    ],
+    "readNotificationIds": [],
+    "uploadedPersonalFiles": []
+  }
+}
