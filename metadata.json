@@ -1,0 +1,6 @@
+{
+  "name": "YojanaAI",
+  "description": "Indian government scheme discovery and management assistant for exploring schemes, checking eligibility, and organizing required documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
